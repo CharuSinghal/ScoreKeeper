@@ -1,0 +1,24 @@
+.winner{color: green};
+
+h1{
+	font-family: "Verdana";
+	
+	font-size: 100px;
+}
+h2{
+	
+	font-family: "Verdana";
+	color:rgb(100,78,225);
+	background: rgb(200,150,100);
+}
+p{
+	font-size: 50px;
+	font-family: "Verdana";
+	color:rgb(0,78,0);
+	background: rgb(250,250,250);
+	font-weight: 100px;
+}
+body{
+	
+	background: rgb(200,200,200);
+}
